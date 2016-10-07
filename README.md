@@ -17,7 +17,7 @@ step 4: merge train and test data
 load feature name into R
 extract mean and standard deviation of each measurements
 Uses descriptive activity names to name the activities in the data set
-load activity data into R
+2. load activity data into R
  replace 1 to 6 with activity names
  Appropriately labels the data set with descriptive variable names.
 
